@@ -28,7 +28,6 @@ Ce dépôt a pour but de :
 
 ## 🚧 Projets en cours / à venir
 
-- [ ] Application de notes en ligne avec FastAPI + React  
 - [ ] Générateur de mots de passe sécurisé  
 - [ ] Mini chatbot IA avec OpenAI API
 
