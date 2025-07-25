@@ -4,18 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Test</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Convertisseur EUR -> XPF</h1>
-    <label for="eur">Montant en EUR</label>
-    <input type="text" id="eur">
+    <h1>Convertisseur EUR to XPF</h1>
 
-    <br><br>
+    <div class="conv">
+        <label for="eur" class="l-eur">Montant en EUR</label>
+        <input type="text" id="eur">
 
-    <label for="xpf">Montant en XPF</label>
-    <input type="text" id="xpf" disabled>
-    <button id="sub">Convertir</button>
+        <br><br>
 
+        <label for="xpf" class="l-xpf">Montant en XPF</label>
+        <input type="text" id="xpf" disabled>
+
+        <br><br>
+
+        <button id="sub">Convertir</button>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>
