@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    display: none;
+}
+
+h1.shown {
+    display: block;
+}
