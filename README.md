@@ -1,7 +1,7 @@
 Welcome to my GitHub repository dedicated to my development projects!
 Here, I gather all the projects I create to learn, practice, and build useful or fun applications.
 
-🎯 Goal
+## 🎯 Goal
 
 The purpose of this repository is to:
 
@@ -14,7 +14,7 @@ Experiment with new ideas, technologies, and frameworks
 Document my learning along the way
 
 
-🧰 Main Technologies
+## 🧰 Main Technologies
 
 Python – backend, scripts, automation
 
@@ -27,14 +27,14 @@ JavaScript / HTML / CSS – frontend and fullstack projects
 Git / GitHub – version control
 
 
-✅ Completed Projects
+## ✅ Completed Projects
 
 [x] Calculator with Tkinter 🧮
 
 [x] EUR -> XPF Converter
 
 
-🚧 Ongoing / Upcoming Projects
+## 🚧 Ongoing / Upcoming Projects
 
 [ ] Online notes app with FastAPI + React
 
@@ -43,7 +43,7 @@ Git / GitHub – version control
 [ ] Mini AI chatbot using the OpenAI API
 
 
-📬 Contact
+### 📬 Contact
 
 Want to talk about a project, give feedback, or just chat?
 Feel free to contact me via GitHub or open an issue on the relevant project.
