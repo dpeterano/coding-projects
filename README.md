@@ -1,42 +1,49 @@
-# 🚀 Projets de Programmation
+Welcome to my GitHub repository dedicated to my development projects!
+Here, I gather all the projects I create to learn, practice, and build useful or fun applications.
 
-Bienvenue sur mon dépôt GitHub dédié à mes projets de développement !  
-Ici, je regroupe tous les projets que je réalise pour apprendre, pratiquer et construire des applications utiles ou amusantes.
+🎯 Goal
 
-## 🎯 Objectif
+The purpose of this repository is to:
 
-Ce dépôt a pour but de :
+Centralize all my personal projects
 
-- Centraliser tous mes projets personnels
-- Suivre mon évolution en tant que développeur
-- Tester de nouvelles idées, technologies et frameworks
-- Documenter mes apprentissages au fur et à mesure
+Track my progress as a developer
 
-## 🧰 Technologies principales
+Experiment with new ideas, technologies, and frameworks
 
-- **Python** – backend, scripts, automatisations
-- **FastAPI / Flask** – APIs web
-- **Tkinter** – interfaces graphiques simples
-- **JavaScript / HTML / CSS** – projets frontend et fullstack
-- **Git / GitHub** – gestion de version
+Document my learning along the way
 
-## ✅ Projets terminés
 
-- [x] Calculatrice avec Tkinter 🧮
-- [x] Convertisseur EUR -> XPF 
+🧰 Main Technologies
 
-## 🚧 Projets en cours / à venir
+Python – backend, scripts, automation
 
-- [ ] Application de notes en ligne avec FastAPI + React  
-- [ ] Générateur de mots de passe sécurisé  
-- [ ] Mini chatbot IA avec OpenAI API
+FastAPI / Flask – web APIs
 
-## 📬 Contact
+Tkinter – simple GUI interfaces
 
-Tu veux discuter d’un projet, donner un conseil ou simplement échanger ?  
-Tu peux me contacter via GitHub ou ouvrir une _issue_ sur le projet concerné.
+JavaScript / HTML / CSS – frontend and fullstack projects
 
----
+Git / GitHub – version control
 
-Merci d’avoir visité ce dépôt 🙌  
-Tu peux suivre mes évolutions en cliquant sur ⭐ ou en explorant mes autres dépôts !
+
+✅ Completed Projects
+
+[x] Calculator with Tkinter 🧮
+
+[x] EUR -> XPF Converter
+
+
+🚧 Ongoing / Upcoming Projects
+
+[ ] Online notes app with FastAPI + React
+
+[ ] Secure password generator
+
+[ ] Mini AI chatbot using the OpenAI API
+
+
+📬 Contact
+
+Want to talk about a project, give feedback, or just chat?
+Feel free to contact me via GitHub or open an issue on the relevant project.
